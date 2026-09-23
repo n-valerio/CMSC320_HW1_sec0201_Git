@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
-Answer: To allow us to version our projects and code with a viewable history and to better: collaborate with our peers.
+Answer: To allow us to version our projects and code with a viewable history and to better collaborate with our peers.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be used in sports to analyse team or player performance. One could analyze which conditions an opposing player performs best and worst in to inform strategy prior to a game. 
